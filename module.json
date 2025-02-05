@@ -1,6 +1,6 @@
 {
-  "name": "flying-tokens",
-  "id": "flying-tokens",
+  "name": "flying_tokens",
+  "id": "flying_tokens",
   "title": "Flying Tokens",
   "description": "Flying Tokens works with Token Magic FX API to add shadow and movement that simulates the flight.",
   "version": "This is auto replaced",
